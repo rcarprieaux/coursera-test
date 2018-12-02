@@ -1,14 +1,12 @@
 body {
-    background: #cff0ff;
-    margin: 0;
+    background: white;
+    word-wrap: break-word;
+    font-size: 1em;
 }
 
 body h1 {
-    color: #ff0000;
-}
-
-body h2 {
-    color: #ff00b7;
+    text-align: center;
+    color: black;
 }
 
 p {
@@ -16,20 +14,29 @@ p {
 }
 
 .box {
-    display: inline-block;
+    background: grey;
     box-sizing: border-box;
     border: 2px solid black;
-    width: 45%;
+    max-width: 50%;
 }
 
-.box section {
+.box h2 {
     box-sizing: content-box;
-    border: 1px solid red;
+    border-left: 2px solid black;
+    border-bottom: 2px solid black;
+    margin-top: 0;
+    margin-bottom: 0.5em;
     width: 5em;
     text-align: center;
     float: right;
 }
 
- .box p {
-     clear: both;
- }
+.box p {
+    clear: both;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+}
+
+@media (max-width: 767px) {
+}
