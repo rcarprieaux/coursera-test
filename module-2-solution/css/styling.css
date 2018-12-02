@@ -9,10 +9,6 @@ body h1 {
     color: #000000;
 }
 
-p {
-    color: #095b00;
-}
-
 .box {
     background: grey;
     box-sizing: border-box;
@@ -24,7 +20,6 @@ p {
     box-sizing: content-box;
     border-left: 2px solid black;
     border-bottom: 2px solid black;
-    background: #ff0000;
     margin-top: 0;
     margin-bottom: 0.5em;
     width: 5em;
@@ -32,8 +27,20 @@ p {
     float: right;
 }
 
+#title-1 {
+    background: #ff0000;
+}
+#title-2 {
+    background: #ffff00;
+}
+#title-3 {
+    background: #008000;
+}
+
 .box p {
     clear: both;
+    padding-left: 1em;
+    padding-right: 1em;
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
