@@ -7,6 +7,11 @@ h1 {
     margin-bottom: 15px;
 }
 
+body {
+    background: #fff7df;
+    font-family: "Times New Roman", Times, serif;
+}
+
 /* Simple Responsive Framework. */
 .row {
     width: 100%;
@@ -17,15 +22,15 @@ section {
 }
 
 .box {
-    background: grey;
+    background: #c3a696;
     box-sizing: border-box;
     border: 1px solid black;
 }
 
 .box > h2 {
     box-sizing: content-box;
-    border-left: 2px solid black;
-    border-bottom: 2px solid black;
+    border-left: 1px solid black;
+    border-bottom: 1px solid black;
     margin-top: 0;
     margin-bottom: 0.5em;
     width: 5em;
@@ -34,15 +39,15 @@ section {
 }
 
 #title-1 {
-    background: #ff0000;
+    background: #fff866;
 }
 
 #title-2 {
-    background: #ffff00;
+    background: #ff3d49;
 }
 
 #title-3 {
-    background: #008000;
+    background: #67d523;
 }
 
 .box p {
