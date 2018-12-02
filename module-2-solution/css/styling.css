@@ -1,5 +1,6 @@
 body {
     background: #cff0ff;
+    margin: 0;
 }
 
 body h1 {
@@ -9,6 +10,26 @@ body h1 {
 body h2 {
     color: #ff00b7;
 }
+
 p {
     color: #095b00;
 }
+
+.box {
+    display: inline-block;
+    box-sizing: border-box;
+    border: 2px solid black;
+    width: 45%;
+}
+
+.box section {
+    box-sizing: content-box;
+    border: 1px solid red;
+    width: 5em;
+    text-align: center;
+    float: right;
+}
+
+ .box p {
+     clear: both;
+ }
