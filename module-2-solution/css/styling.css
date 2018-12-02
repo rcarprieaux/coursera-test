@@ -1,12 +1,12 @@
 body {
-    background: white;
+    background: #ffffff;
     word-wrap: break-word;
     font-size: 1em;
 }
 
 body h1 {
     text-align: center;
-    color: black;
+    color: #000000;
 }
 
 p {
@@ -17,13 +17,14 @@ p {
     background: grey;
     box-sizing: border-box;
     border: 2px solid black;
-    max-width: 50%;
+    max-width: 33.3%;
 }
 
 .box h2 {
     box-sizing: content-box;
     border-left: 2px solid black;
     border-bottom: 2px solid black;
+    background: #ff0000;
     margin-top: 0;
     margin-bottom: 0.5em;
     width: 5em;
