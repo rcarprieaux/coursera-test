@@ -25,12 +25,13 @@ section {
     background: #c3a696;
     box-sizing: border-box;
     border: 1px solid black;
+    border-radius: 20px;
 }
 
 .box > h2 {
     box-sizing: content-box;
-    border-left: 1px solid black;
-    border-bottom: 1px solid black;
+    border: 1px solid black;
+    border-radius: 20px;
     margin-top: 0;
     margin-bottom: 0.5em;
     width: 5em;
@@ -52,8 +53,8 @@ section {
 
 .box p {
     clear: both;
-    padding-left: 10px;
-    padding-right: 10px;
+    padding-left: 1em;
+    padding-right: 1em;
 }
 
 /********** Large devices only **********/
