@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a5acef8e-717d-42d6-b42f-e3e62cf85669" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/coursera-test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/coursera-test.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/module-1-solution/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/linktofile.html" beforeDir="false" afterPath="$PROJECT_DIR$/module-1-solution/linktofile.html" afterDir="false" />
+    <list default="true" id="a5acef8e-717d-42d6-b42f-e3e62cf85669" name="Default Changelist" comment="[Week-1] Refactor">
+      <change afterPath="$PROJECT_DIR$/module-4-solution/SpeakGoodBye.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module-4-solution/SpeakHello.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module-4-solution/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module-4-solution/script.js" afterDir="false" />
     </list>
     <ignored path=".idea/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,13 +16,40 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/module-1-solution/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" column="49" selection-start-line="25" selection-start-column="49" selection-end-line="25" selection-end-column="49" />
+            <state relative-caret-position="34">
+              <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module-4-solution/starter files/Assignment-4.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="136">
+                <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module-4-solution/starter files/README-FIRST.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module-4-solution/starter files/easier/index.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/module-4-solution/index.html">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -72,7 +99,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -80,10 +106,34 @@
               <item name="coursera-test" type="b2602c69:ProjectViewProjectNode" />
               <item name="coursera-test" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="coursera-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="coursera-test" type="462c0819:PsiDirectoryNode" />
+              <item name="module-1-solution" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="coursera-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="coursera-test" type="462c0819:PsiDirectoryNode" />
+              <item name="module-4-solution" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="coursera-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="coursera-test" type="462c0819:PsiDirectoryNode" />
+              <item name="module-4-solution" type="462c0819:PsiDirectoryNode" />
+              <item name="starter files" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="coursera-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="coursera-test" type="462c0819:PsiDirectoryNode" />
+              <item name="module-4-solution" type="462c0819:PsiDirectoryNode" />
+              <item name="starter files" type="462c0819:PsiDirectoryNode" />
+              <item name="easier" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -93,12 +143,15 @@
     <property name="editor.config.ad.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.jscs" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.detected.package.stylelint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.jscs" value="project" />
     <property name="node.js.path.for.package.standard" value="project" />
     <property name="node.js.path.for.package.stylelint" value="project" />
     <property name="node.js.selected.package.eslint" value="" />
+    <property name="node.js.selected.package.jscs" value="" />
     <property name="node.js.selected.package.standard" value="" />
     <property name="node.js.selected.package.stylelint" value="" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -147,6 +200,7 @@
       <workItem from="1543056202166" duration="252000" />
       <workItem from="1543056469837" duration="4840000" />
       <workItem from="1544870570712" duration="204000" />
+      <workItem from="1544963404939" duration="313000" />
     </task>
     <task id="LOCAL-00001" summary="[Week-1] Added index.html">
       <created>1543049482787</created>
@@ -274,19 +328,25 @@
       <option name="project" value="LOCAL" />
       <updated>1543062960837</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="[Week-1] Refactor">
+      <created>1544963430282</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1544963430282</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10206000" />
+    <option name="totallyTimeSpent" value="10519000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28997868" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29317698" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="SonarQube" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -300,6 +360,7 @@
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32936078" />
       <window_info anchor="bottom" id="SonarLint" order="12" weight="0.32936078" />
+      <window_info anchor="bottom" id="SonarQube" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -330,8 +391,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/module-1-solution/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="49" selection-start-line="25" selection-start-column="49" selection-end-line="25" selection-end-column="49" />
+        <state relative-caret-position="34">
+          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
         </state>
       </provider>
     </entry>
@@ -345,6 +406,25 @@
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module-4-solution/starter files/Assignment-4.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="136">
+            <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module-4-solution/starter files/README-FIRST.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module-4-solution/starter files/easier/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module-4-solution/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
