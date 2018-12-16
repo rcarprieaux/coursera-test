@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a5acef8e-717d-42d6-b42f-e3e62cf85669" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/module-4-solution/SpeakGoodBye.js" beforeDir="false" afterPath="$PROJECT_DIR$/module-4-solution/SpeakGoodBye.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/module-4-solution/SpeakHello.js" beforeDir="false" afterPath="$PROJECT_DIR$/module-4-solution/SpeakHello.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module-4-solution/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/module-4-solution/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/module-4-solution/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/module-4-solution/script.js" afterDir="false" />
     </list>
     <ignored path=".idea/" />
@@ -26,8 +25,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/module-4-solution/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="38" lean-forward="true" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+            <state relative-caret-position="221">
+              <caret line="13" column="42" lean-forward="true" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -35,20 +34,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/module-4-solution/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="28" column="26" lean-forward="true" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/module-4-solution/SpeakHello.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="25" lean-forward="true" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+            <state relative-caret-position="119">
+              <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -56,8 +43,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/module-4-solution/SpeakGoodBye.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
+            <state relative-caret-position="187">
+              <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/module-4-solution/SpeakHello.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -81,9 +77,9 @@
         <option value="$PROJECT_DIR$/site/linktofile.html" />
         <option value="$PROJECT_DIR$/site/index.html" />
         <option value="$PROJECT_DIR$/module-4-solution/index.html" />
-        <option value="$PROJECT_DIR$/module-4-solution/script.js" />
-        <option value="$PROJECT_DIR$/module-4-solution/SpeakGoodBye.js" />
         <option value="$PROJECT_DIR$/module-4-solution/SpeakHello.js" />
+        <option value="$PROJECT_DIR$/module-4-solution/SpeakGoodBye.js" />
+        <option value="$PROJECT_DIR$/module-4-solution/script.js" />
       </list>
     </option>
   </component>
@@ -129,6 +125,13 @@
               <item name="module-4-solution" type="462c0819:PsiDirectoryNode" />
               <item name="starter files" type="462c0819:PsiDirectoryNode" />
               <item name="easier" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="coursera-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="coursera-test" type="462c0819:PsiDirectoryNode" />
+              <item name="module-4-solution" type="462c0819:PsiDirectoryNode" />
+              <item name="starter files" type="462c0819:PsiDirectoryNode" />
+              <item name="harder" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -209,7 +212,7 @@
       <workItem from="1544870570712" duration="204000" />
       <workItem from="1544963404939" duration="1233000" />
       <workItem from="1544964656872" duration="79000" />
-      <workItem from="1544964754009" duration="5041000" />
+      <workItem from="1544964754009" duration="6554000" />
     </task>
     <task id="LOCAL-00001" summary="[Week-1] Added index.html">
       <created>1543049482787</created>
@@ -358,11 +361,18 @@
       <option name="project" value="LOCAL" />
       <updated>1544963857602</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="[Week-4] Solution Easy">
+      <created>1544971940704</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1544971940705</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16559000" />
+    <option name="totallyTimeSpent" value="18072000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -407,7 +417,8 @@
     <MESSAGE value="[Week-1] Added lorem ipsus" />
     <MESSAGE value="[Week-1] Refactor" />
     <MESSAGE value="[Week-4] Starter files" />
-    <option name="LAST_COMMIT_MESSAGE" value="[Week-4] Starter files" />
+    <MESSAGE value="[Week-4] Solution Easy" />
+    <option name="LAST_COMMIT_MESSAGE" value="[Week-4] Solution Easy" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/site/lecture-4.html" />
@@ -431,9 +442,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/module-4-solution/starter files/README-FIRST.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/module-4-solution/starter files/easier/index.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -448,18 +456,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/module-4-solution/starter files/harder/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module-4-solution/starter files/harder/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-204">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/module-4-solution/starter files/harder/SpeakHello.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -469,7 +465,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/module-4-solution/starter files/easier/SpeakHello.js">
+    <entry file="file://$PROJECT_DIR$/module-4-solution/starter files/README-FIRST.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module-4-solution/starter files/harder/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module-4-solution/starter files/harder/SpeakGoodBye.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <folding>
@@ -478,34 +484,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/module-4-solution/index.html">
+    <entry file="file://$PROJECT_DIR$/module-4-solution/starter files/harder/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="38" lean-forward="true" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module-4-solution/SpeakGoodBye.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module-4-solution/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="26" lean-forward="true" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
+        <state relative-caret-position="76">
+          <caret line="24" column="30" lean-forward="true" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/module-4-solution/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="42" lean-forward="true" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module-4-solution/starter files/easier/SpeakHello.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="64" lean-forward="true" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="64" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module-4-solution/SpeakGoodBye.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module-4-solution/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/module-4-solution/SpeakHello.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="25" lean-forward="true" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+        <state relative-caret-position="187">
+          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
         </state>
       </provider>
     </entry>
