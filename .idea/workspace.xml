@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a5acef8e-717d-42d6-b42f-e3e62cf85669" name="Default Changelist" comment="" />
+    <list default="true" id="a5acef8e-717d-42d6-b42f-e3e62cf85669" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/coursera-test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/coursera-test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/module-1-solution/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/linktofile.html" beforeDir="false" afterPath="$PROJECT_DIR$/module-1-solution/linktofile.html" afterDir="false" />
+    </list>
     <ignored path=".idea/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,19 +17,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/site/index.html">
+        <entry file="file://$PROJECT_DIR$/module-1-solution/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="246">
+            <state relative-caret-position="425">
               <caret line="25" column="49" selection-start-line="25" selection-start-column="49" selection-end-line="25" selection-end-column="49" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/site/linktofile.html">
+        <entry file="file://$PROJECT_DIR$/module-1-solution/linktofile.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
-              <caret line="15" column="16" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="15" selection-end-column="16" />
+              <caret line="15" column="16" selection-start-line="11" selection-start-column="12" selection-end-line="15" selection-end-column="16" />
               <folding>
                 <element signature="e#197#201#0" expanded="true" />
                 <element signature="e#202#206#0" expanded="true" />
@@ -63,9 +68,11 @@
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <autoscrollToSource ProjectPane="true" />
+      <autoscrollFromSource ProjectPane="true" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -73,23 +80,18 @@
               <item name="coursera-test" type="b2602c69:ProjectViewProjectNode" />
               <item name="coursera-test" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="coursera-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="coursera-test" type="462c0819:PsiDirectoryNode" />
-              <item name="site" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../fullstack-course4-master" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.detected.package.stylelint" value="true" />
@@ -144,6 +146,7 @@
       <workItem from="1543052216855" duration="2352000" />
       <workItem from="1543056202166" duration="252000" />
       <workItem from="1543056469837" duration="4840000" />
+      <workItem from="1544870570712" duration="204000" />
     </task>
     <task id="LOCAL-00001" summary="[Week-1] Added index.html">
       <created>1543049482787</created>
@@ -275,15 +278,15 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10002000" />
+    <option name="totallyTimeSpent" value="10206000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2867804" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28997868" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="SonarQube" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -321,31 +324,25 @@
     <option name="LAST_COMMIT_MESSAGE" value="[Week-1] Refactor" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/site/lecture-4.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="57" lean-forward="true" selection-start-line="11" selection-start-column="57" selection-end-line="11" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/site/lecture-4.html" />
     <entry file="file://$PROJECT_DIR$/.editorconfig">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/site/linktofile.html">
+    <entry file="file://$PROJECT_DIR$/module-1-solution/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="49" selection-start-line="25" selection-start-column="49" selection-end-line="25" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module-1-solution/linktofile.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="15" column="16" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="15" selection-end-column="16" />
+          <caret line="15" column="16" selection-start-line="11" selection-start-column="12" selection-end-line="15" selection-end-column="16" />
           <folding>
             <element signature="e#197#201#0" expanded="true" />
             <element signature="e#202#206#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/site/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="25" column="49" selection-start-line="25" selection-start-column="49" selection-end-line="25" selection-end-column="49" />
         </state>
       </provider>
     </entry>
