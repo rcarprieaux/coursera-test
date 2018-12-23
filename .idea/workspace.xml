@@ -3,10 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a5acef8e-717d-42d6-b42f-e3e62cf85669" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module-4-solution/SpeakGoodBye.js" beforeDir="false" afterPath="$PROJECT_DIR$/module-4-solution/SpeakGoodBye.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module-4-solution/SpeakHello.js" beforeDir="false" afterPath="$PROJECT_DIR$/module-4-solution/SpeakHello.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module-4-solution/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/module-4-solution/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module-4-solution/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/module-4-solution/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module-5-solution/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/module-5-solution/js/script.js" afterDir="false" />
     </list>
     <ignored path=".idea/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,43 +14,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/module-4-solution/starter files/README-FIRST.txt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/module-4-solution/index.html">
+      <file pinned="true" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module-5-solution/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="42" lean-forward="true" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
+            <state relative-caret-position="238">
+              <caret line="64" lean-forward="true" selection-start-line="64" selection-end-line="64" />
+              <folding>
+                <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/module-4-solution/script.js">
+      <file pinned="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/module-5-solution/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/module-4-solution/SpeakGoodBye.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/module-4-solution/SpeakHello.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+            <state relative-caret-position="-53">
+              <caret line="100" lean-forward="true" selection-start-line="100" selection-end-line="100" />
             </state>
           </provider>
         </entry>
@@ -80,14 +58,14 @@
         <option value="$PROJECT_DIR$/module-4-solution/SpeakHello.js" />
         <option value="$PROJECT_DIR$/module-4-solution/SpeakGoodBye.js" />
         <option value="$PROJECT_DIR$/module-4-solution/script.js" />
+        <option value="$PROJECT_DIR$/module-5-solution/js/script.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-5" />
-    <option name="y" value="1" />
-    <option name="width" value="1400" />
-    <option name="height" value="1000" />
+    <option name="x" value="924" />
+    <option name="width" value="1003" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -96,6 +74,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -106,38 +85,18 @@
             <path>
               <item name="coursera-test" type="b2602c69:ProjectViewProjectNode" />
               <item name="coursera-test" type="462c0819:PsiDirectoryNode" />
-              <item name="module-1-solution" type="462c0819:PsiDirectoryNode" />
+              <item name="module-5-solution" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="coursera-test" type="b2602c69:ProjectViewProjectNode" />
               <item name="coursera-test" type="462c0819:PsiDirectoryNode" />
-              <item name="module-4-solution" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="coursera-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="coursera-test" type="462c0819:PsiDirectoryNode" />
-              <item name="module-4-solution" type="462c0819:PsiDirectoryNode" />
-              <item name="starter files" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="coursera-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="coursera-test" type="462c0819:PsiDirectoryNode" />
-              <item name="module-4-solution" type="462c0819:PsiDirectoryNode" />
-              <item name="starter files" type="462c0819:PsiDirectoryNode" />
-              <item name="easier" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="coursera-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="coursera-test" type="462c0819:PsiDirectoryNode" />
-              <item name="module-4-solution" type="462c0819:PsiDirectoryNode" />
-              <item name="starter files" type="462c0819:PsiDirectoryNode" />
-              <item name="harder" type="462c0819:PsiDirectoryNode" />
+              <item name="module-5-solution" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -163,14 +122,16 @@
     <property name="settings.editor.selected.configurable" value="Settings.JavaScript.Linters.JSLint" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Robert\PhpstormProjects\coursera-test\module-5-solution" />
+      <recent name="C:\Users\Robert\PhpstormProjects\coursera-test\module-4-solution" />
+      <recent name="C:\Users\Robert\PhpstormProjects\coursera-test\site" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Robert\PhpstormProjects\coursera-test\module-5-solution" />
       <recent name="C:\Users\Robert\PhpstormProjects\coursera-test\module-4-solution\starter files\easier" />
       <recent name="C:\Users\Robert\PhpstormProjects\coursera-test\module-4-solution" />
       <recent name="C:\Users\Robert\PhpstormProjects\coursera-test\module-4-solution\starter files" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Robert\PhpstormProjects\coursera-test\module-4-solution" />
-      <recent name="C:\Users\Robert\PhpstormProjects\coursera-test\site" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -212,7 +173,10 @@
       <workItem from="1544870570712" duration="204000" />
       <workItem from="1544963404939" duration="1233000" />
       <workItem from="1544964656872" duration="79000" />
-      <workItem from="1544964754009" duration="6554000" />
+      <workItem from="1544964754009" duration="7181000" />
+      <workItem from="1545482704647" duration="98000" />
+      <workItem from="1545565367158" duration="915000" />
+      <workItem from="1545574700925" duration="1064000" />
     </task>
     <task id="LOCAL-00001" summary="[Week-1] Added index.html">
       <created>1543049482787</created>
@@ -368,17 +332,31 @@
       <option name="project" value="LOCAL" />
       <updated>1544971940705</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="[Week-4] Solution Hard">
+      <created>1544973275139</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1544973275139</updated>
+    </task>
+    <task id="LOCAL-00024" summary="[Week-5] Added starter files">
+      <created>1545565518467</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1545565518467</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18072000" />
+    <option name="totallyTimeSpent" value="20776000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29957357" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15724947" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -418,7 +396,9 @@
     <MESSAGE value="[Week-1] Refactor" />
     <MESSAGE value="[Week-4] Starter files" />
     <MESSAGE value="[Week-4] Solution Easy" />
-    <option name="LAST_COMMIT_MESSAGE" value="[Week-4] Solution Easy" />
+    <MESSAGE value="[Week-4] Solution Hard" />
+    <MESSAGE value="[Week-5] Added starter files" />
+    <option name="LAST_COMMIT_MESSAGE" value="[Week-5] Added starter files" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/site/lecture-4.html" />
@@ -429,16 +409,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module-4-solution/starter files/Assignment-4.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="136">
-            <caret line="8" selection-start-line="8" selection-end-line="8" />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -464,9 +434,6 @@
           </folding>
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module-4-solution/starter files/README-FIRST.txt">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/module-4-solution/starter files/harder/index.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -494,13 +461,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/module-4-solution/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="42" lean-forward="true" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/module-4-solution/starter files/easier/SpeakHello.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -511,10 +471,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/module-4-solution/SpeakGoodBye.js">
+    <entry file="file://$PROJECT_DIR$/module-4-solution/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+        <state relative-caret-position="221">
+          <caret line="13" column="42" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
         </state>
       </provider>
     </entry>
@@ -525,10 +485,54 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/module-4-solution/SpeakGoodBye.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/module-4-solution/SpeakHello.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module-5-solution/snippets/categories-title-snippet.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module-4-solution/starter files/Assignment-4.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="136">
+            <caret line="8" selection-start-line="8" selection-end-line="8" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module-4-solution/starter files/README-FIRST.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module-5-solution/js/npm.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module-5-solution/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="64" lean-forward="true" selection-start-line="64" selection-end-line="64" />
+          <folding>
+            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module-5-solution/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-53">
+          <caret line="100" lean-forward="true" selection-start-line="100" selection-end-line="100" />
         </state>
       </provider>
     </entry>
